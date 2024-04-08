@@ -5,6 +5,7 @@ The project's objectives include creating a user-friendly frontend interface, de
 Technologies used:
 1. HTML
 2. CSS
-3. React
+3. React.js
 4. Node.js
-5. MongoDB
+5. Express.js
+6. MongoDB
