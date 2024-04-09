@@ -9,3 +9,5 @@ Technologies used:
 4. Node.js
 5. Express.js
 6. MongoDB
+
+### Note: Extract node_modules zip file
